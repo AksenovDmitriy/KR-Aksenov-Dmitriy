@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Игра Составь слова из слова", "Игра Составь слова из слова.csproj", "{B3D04FBA-D864-42CE-BF43-CC8B8D2C9CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D04FBA-D864-42CE-BF43-CC8B8D2C9CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D04FBA-D864-42CE-BF43-CC8B8D2C9CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D04FBA-D864-42CE-BF43-CC8B8D2C9CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D04FBA-D864-42CE-BF43-CC8B8D2C9CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B8BE0BF-2F9D-48DC-B538-B5E8D9286871}
+	EndGlobalSection
+EndGlobal
