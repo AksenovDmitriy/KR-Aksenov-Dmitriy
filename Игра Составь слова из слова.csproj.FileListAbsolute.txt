@@ -1,0 +1,15 @@
+D:\C++\Игра Составь слова из слова\bin\Debug\Игра Составь слова из слова.exe.config
+D:\C++\Игра Составь слова из слова\bin\Debug\Игра Составь слова из слова.exe
+D:\C++\Игра Составь слова из слова\bin\Debug\Игра Составь слова из слова.pdb
+D:\C++\Игра Составь слова из слова\obj\Debug\Игра Составь слова из слова.csproj.AssemblyReference.cache
+D:\C++\Игра Составь слова из слова\obj\Debug\Игра Составь слова из слова.csproj.SuggestedBindingRedirects.cache
+D:\C++\Игра Составь слова из слова\obj\Debug\Игра_Составь_слова_из_слова.Form1.resources
+D:\C++\Игра Составь слова из слова\obj\Debug\Игра_Составь_слова_из_слова.Properties.Resources.resources
+D:\C++\Игра Составь слова из слова\obj\Debug\Игра Составь слова из слова.csproj.GenerateResource.cache
+D:\C++\Игра Составь слова из слова\obj\Debug\Игра Составь слова из слова.csproj.CoreCompileInputs.cache
+D:\C++\Игра Составь слова из слова\obj\Debug\Игра Составь слова из слова.exe
+D:\C++\Игра Составь слова из слова\obj\Debug\Игра Составь слова из слова.pdb
+D:\C++\Игра Составь слова из слова\bin\Debug\ru-RU\Игра Составь слова из слова.resources.dll
+D:\C++\Игра Составь слова из слова\obj\Debug\Игра_Составь_слова_из_слова.Form1.ru-RU.resources
+D:\C++\Игра Составь слова из слова\obj\Debug\ru-RU\Игра Составь слова из слова.resources.dll
+D:\C++\Игра Составь слова из слова\obj\Debug\Игра_Составь_слова_из_слова.Form2.resources
